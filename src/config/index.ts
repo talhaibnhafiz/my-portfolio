@@ -23,15 +23,15 @@ export const SITE_CONFIG: SiteConfig = {
 
 export const SITE_CONTENT: SiteContent = {
   hero: {
-    name: "Alejandro Múnez",
-    specialty: "Mobile & Web Developer",
+    name: "Talha Ibn Hafiz",
+    specialty: "CS Enthuasist",
     summary:
-      "Developer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
-    email: "example@email.com",
+      "High School Student (Science) at Rajshahi Govt. City College, Rajshai, Bangladesh.",
+    email: "talhaibnhafiz2007@email.com",
   },
   experience: [
     {
-      company: "Zalmart",
+      company: "Integrated Eco Factory",
       position: "Lead Android Developer",
       startDate: "May 2018",
       endDate: "Sept 2020",
