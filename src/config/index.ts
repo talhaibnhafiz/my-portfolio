@@ -15,7 +15,7 @@ export const SITE_CONFIG: SiteConfig = {
   socialLinks: [
     { text: "LinkedIn", href: "https://linkedin.com/in/talhaibnhafiz" },
     { text: "Github", href: "https://github.com/talhaibnhafiz" },
-    { text: "Email", href: "talhaibnhafiz2007@gmail.com" },
+    { text: "Email", href: "mailto:talhaibnhafiz2007@gmail.com" },
   ],
   socialImage: "/7d1d28a3-b269-4562-9f32-356c52708d8c.jpg",
   canonicalURL: "https://astro-zen.vercel.app",
