@@ -31,35 +31,21 @@ export const SITE_CONTENT: SiteContent = {
   },
   experience: [
     {
-      company: "Integrated Eco Factory",
-      position: "Project Leader",
-      startDate: "Jan 26",
-      endDate: "Feb 26",
-      summary: [
-        "Developed an automated industrial system focused on reducing energy waste and monitoring environmental pollutants using Sensor Networks.",
-        "Integrated real-time resource management through Wireless Communication platforms to ensure sustainable manufacturing processes.",
-        "Designed a centralized control system to optimize factory operations and minimize carbon footprint.",
+      company: "HSC",
+      position: "GPA:0.00/0.00",
+      startDate: "Aug 24",
+      endDate: "July 26",
+      summary: [ "At Rajshahi Govt. City College ",
       ],
     },
     {
-      company: "Bankit",
-      position: "Mobile Developer",
-      startDate: "Feb 2017",
-      endDate: "May 2018",
+      company: "SSC",
+      position: "GPA:5.00/5.00",
+      startDate: "Jan 2016",
+      endDate: "May 2024",
       summary: [
-        "I designed and developed a mobile application using Flutter, allowing it to be deployed on both Android and iOS with a single codebase. This reduced development time by 50% and maintenance costs by 30%, facilitating a consistent user experience on both platforms.",
-        "I integrated biometric authentication and data encryption, significantly improving the security of user data. This implementation resulted in a 40% increase in user trust and a 25% reduction in unauthorized access attempts.",
+       "At Seroil Govt.High School",
       ],
-    },
-    {
-      company: "Driveer",
-      position: "Frontend Developer",
-      startDate: "Jun 2015",
-      endDate: "Oct 2016",
-      summary:
-        "Developed and integrated a real-time vehicle tracking system using WebSockets, improving accuracy and data update in the application. This functionality increased user satisfaction by 30% and reduced customer service inquiries by 25%.",
-    },
-  ],
   projects: [
     {
       name: "Integrated Eco Factory",
