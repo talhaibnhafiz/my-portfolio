@@ -63,9 +63,7 @@ export const SITE_CONTENT: SiteContent = {
   projects: [
     {
       name: "Integrated Eco Factory",
-      summary: "Developed an automated industrial system focused on reducing energy waste and monitoring environmental pollutants using Sensor Networks.",
-        "Integrated real-time resource management through Wireless Communication platforms to ensure sustainable manufacturing processes.",
-        "Designed a centralized control system to optimize factory operations and minimize carbon footprint.",
+      summary: "Developed an automated industrial system focused on reducing energy waste and monitoring environmental pollutants using Sensor Networks.Integrated real-time resource management through Wireless Communication platforms to ensure sustainable manufacturing processes.Designed a centralized control system to optimize factory operations and minimize carbon footprint.",
       linkPreview: "/",
       linkSource: "https://github.com/immois/astro-zen",
       image: "/spotifu.png",
