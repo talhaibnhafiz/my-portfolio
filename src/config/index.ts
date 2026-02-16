@@ -24,7 +24,7 @@ export const SITE_CONFIG: SiteConfig = {
 export const SITE_CONTENT: SiteContent = {
   hero: {
     name: "Talha Ibn Hafiz",
-    specialty: "CS Enthuasist",
+    specialty: "CS Enthuasiast",
     summary:
       "High School Student (Science) at Rajshahi Govt. City College, Rajshai, Bangladesh.",
     email: "talhaibnhafiz2007@email.com",
@@ -35,17 +35,16 @@ export const SITE_CONTENT: SiteContent = {
       position: "GPA:0.00/0.00",
       startDate: "Aug 24",
       endDate: "July 26",
-      summary: [ "At Rajshahi Govt. City College ",
-      ],
+      summary: ["At Rajshahi Govt. City College"],
     },
     {
       company: "SSC",
       position: "GPA:5.00/5.00",
       startDate: "Jan 2016",
       endDate: "May 2024",
-      summary: [
-       "At Seroil Govt.High School",
-      ],
+      summary: ["At Seroil Govt. High School"],
+    }, // এখানে কমা এবং ব্র্যাকেট ঠিক করা হয়েছে
+  ],
   projects: [
     {
       name: "Integrated Eco Factory",
