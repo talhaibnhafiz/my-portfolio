@@ -6,7 +6,7 @@ export const SITE_CONFIG: SiteConfig = {
   description:
     "High School Student (Science) at Rajshahi Govt. City College, Rajshai, Bangladesh",
   lang: "en",
-  siteLogo: "/7d1d28a3-b269-4562-9f32-356c52708d8c.jpg",
+  siteLogo: "/7d1d28a3-b269-4562-9f32-356c52708d8c-removebg-preview.png",
   navLinks: [
     { text: "Education", href: "#experience" },
     { text: "Projects", href: "#projects" },
